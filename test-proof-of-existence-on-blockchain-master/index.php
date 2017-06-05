@@ -9,7 +9,7 @@ include_once 'include/nav.php';
         <!-- Portfolio Item Heading -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Publish Proof-of-Existence
+                <h1 class="page-header">Test Publish Proof-of-Existence
                     <small>Upload the file &amp; get the PoE link</small>
                 </h1>
             </div>
